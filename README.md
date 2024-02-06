@@ -4,7 +4,7 @@
 
 ```
 dataset
-├── collections.txt
+├── collections.txt => "Tegishli ovozlarni textga aylantirilgan shakllari"
 ├── meta_data.tsv
 └── wav
     └── user_1
